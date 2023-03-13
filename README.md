@@ -1,9 +1,9 @@
-- 👋 Hi, I’m Petrus Aria
-- 📚 I’m a Information Engineering Student from Indonesia📌
-- 🌱 I’m currently learning a lot of Software and Website Development
-- 💻I also interested into Network and Security
-- 🙋‍♀️Find me on my IG @petrusaria25
+🥑 Avocado
 
+DevOps and Cloud Enthusiast. Currently grinding with Website Development and Security.
+
+[![petrusariaa's GitHub stats](https://github-readme-stats.vercel.app/api?username=PetrusAriaa)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PetrusAriaa&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!---
 PetrusAriaa/PetrusAriaa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
